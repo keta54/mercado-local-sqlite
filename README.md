@@ -56,7 +56,7 @@ Um **banco de dados centralizado** resolve isso: guarda as informações em um
 | `queries.sql` | Consultas SELECT de validação. |
 | `mercado_local.db` | Banco SQLite já gerado a partir dos scripts. |
 | `app.py` | Aplicação de terminal com menu (opcional). |
-| `docs/apresentacao_mercado_local.pptx` | Slides de apresentação do projeto. |
+| `apresentacao_mercado_local.pptx` | Slides de apresentação do projeto. |
 | `README.md` | Esta documentação. |
 
 ## Como executar o projeto
